@@ -28,7 +28,7 @@ Apoyo al proyecto: [☕ Ko-fi / GenaroCarrasco](https://ko-fi.com/genarocarrasco
 **Genaro Carrasco Ozuna**  
 📍 México  
 🔗 [ORCID 0009-0005-6358-9910](https://orcid.org/0009-0005-6358-9910)  
-📬 Contacto: *tcds@proton.me* (recomendado para comunicaciones técnicas)
+📬 Contacto: [GENARO C.Ozuna](geozunac3536@gmail.com)
 
 ---
 
