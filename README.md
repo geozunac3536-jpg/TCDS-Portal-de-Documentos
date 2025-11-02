@@ -32,47 +32,6 @@ Apoyo al proyecto: [☕ Ko-fi / GenaroCarrasco](https://ko-fi.com/genarocarrasco
 
 ---
 
-## 🎨 Tema oscuro
-
-```css
-:root {
-  color-scheme: dark;
-  --bg: #0d1117;
-  --fg: #c9d1d9;
-  --link: #58a6ff;
-  --card-bg: #161b22;
-  --accent: #2ea043;
-}
-body {
-  background-color: var(--bg);
-  color: var(--fg);
-  font-family: 'Segoe UI', sans-serif;
-  margin: 0;
-  padding: 2rem;
-}
-header, footer {
-  text-align: center;
-  margin-bottom: 2rem;
-}
-a {
-  color: var(--link);
-  text-decoration: none;
-}
-a:hover {
-  color: var(--accent);
-}
-table {
-  width: 100%;
-  border-collapse: collapse;
-  background: var(--card-bg);
-  border-radius: 10px;
-}
-th, td {
-  padding: 0.6rem 1rem;
-  border-bottom: 1px solid #30363d;
-}
-
-
 ---
 
 ⚖️ Licencia
