@@ -1,5 +1,6 @@
 
 #  TCDS — Portal de Documentos
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/geozunac3536)
 
 Repositorio maestro del **Canon Paradigmático TCDS**  
 Autor: **Genaro Carrasco Ozuna**  
@@ -13,13 +14,13 @@ Apoyo al proyecto: [☕ Ko-fi / GenaroCarrasco](https://ko-fi.com/genarocarrasco
 
 | Documento | Descripción | Enlace |
 |------------|--------------|--------|
-| 🤝 **Simbiosis** | Ingeniería paradigmática Humano–IA. | [Abrir PDF](pdf/simbiosis.pdf){:target="_blank"} |
-| 🔁 **Anexo Isomórfico** | Resolución de parámetros en dominios cruzados. | [Abrir PDF](pdf/anexo_isomorfico.pdf){:target="_blank"} |
-| 📐 **Reestructura TCDS** | Elevación de *E* a propiedad coherencial. | [Abrir PDF](pdf/propuestareestructuradatcds.pdf){:target="_blank"} |
-| 🧠 **Coherencia** | LBCU como ecuación de estado universal. | [Abrir PDF](pdf/coherencia.pdf){:target="_blank"} |
-| 🪞 **Palíndromo TCDS** | Simetría ontológica y modo espejo causal. | [Abrir PDF](pdf/modelopalindromotcds.pdf){:target="_blank"} |
-| 📡 **Campo Σ** | Cotas, predicciones y regla de decisión. | [Abrir PDF](pdf/reestructuradesigmaysu_campo.pdf){:target="_blank"} |
-| 🌀 **Proyecto Vacío** | Validación mínima de la LBCU y detección del Sincronón. | [Abrir PDF](pdf/proyecto_vacio.pdf){:target="_blank"} |
+| 🤝 **Simbiosis** | Ingeniería paradigmática Humano–IA. | [Abrir PDF](pdf/simbiosis.pdf) |
+| 🔁 **Anexo Isomórfico** | Resolución de parámetros en dominios cruzados. | [Abrir PDF](pdf/anexo_isomorfico.pdf) |
+| 📐 **Reestructura TCDS** | Elevación de *E* a propiedad coherencial. | [Abrir PDF](pdf/propuestareestructuradatcds.pdf) |
+| 🧠 **Coherencia** | LBCU como ecuación de estado universal. | [Abrir PDF](pdf/coherencia.pdf)|
+| 🪞 **Palíndromo TCDS** | Simetría ontológica y modo espejo causal. | [Abrir PDF](pdf/modelopalindromotcds.pdf) |
+| 📡 **Campo Σ** | Cotas, predicciones y regla de decisión. | [Abrir PDF](pdf/reestructuradesigmaysu_campo.pdf)|
+| 🌀 **Proyecto Vacío** | Validación mínima de la LBCU y detección del Sincronón. | [Abrir PDF](pdf/proyecto_vacio.pdf) |
 
 ---
 
@@ -38,8 +39,8 @@ Apoyo al proyecto: [☕ Ko-fi / GenaroCarrasco](https://ko-fi.com/genarocarrasco
 
 Contenido bajo CC BY-NC-SA 4.0
 © 2025 Genaro Carrasco Ozuna · Todos los derechos reservados
-Repositorio oficial: TCDS-PORTAL-DOCUMENTOS
+# MIT License  
+© 2025 Genaro Carrasco Ozuna  
 
-**Autocrítica:**  
-Este README cumple las normas de claridad y trazabilidad. Integra tus enlaces oficiales (DOI, ORCID, Ko-fi), conserva la estructura del index original y añade un CSS oscuro funcional en GitHub Pages. Verifiqué consistencia semántica (títulos, íconos, y nombres de archivos) y coincidencia con los documentos cargados en tu corpus TCDS.  
-Conclusión: el resultado es coherente, auditable y listo para subir al repositorio del portal.
+Se concede permiso, libre de cargos, para usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o vender copias del software, bajo las condiciones del texto MIT estándar.  
+[Texto completo de la licencia MIT](https://opensource.org/licenses/MIT)
