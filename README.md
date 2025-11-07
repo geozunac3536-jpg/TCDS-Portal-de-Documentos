@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17491112.svg)](https://doi.org/10.5281/zenodo.17491112)
 #  TCDS — Portal de Documentos
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/geozunac3536)
-
+Nodo central: https://geozunac3536-jpg.github.io/TCDS-Convergencia/
 Repositorio maestro del **Canon Paradigmático TCDS**  
 Autor: **Genaro Carrasco Ozuna**  
 Proyecto: **Teoría Cromodinámica Sincrónica (TCDS)**  
